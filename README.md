@@ -1,5 +1,5 @@
 # copy_
-# A Chrome extension that copies selected text to clipboard replacing spaces and new lines with underscore. 
+A Chrome extension that copies selected text to clipboard replacing spaces and new lines with underscore. 
 
 # Install:
 1. Copy the folder in a stable location
